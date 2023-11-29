@@ -37,5 +37,10 @@ python3 -m venv <env_name>
 ``` 
 source <env_name>/bin/activate
 ```
+3. Install requirements 
+```
+pip install -r requirements.txt
+```
+
 ## Run the notebook
 The whole project is contained in the file `project.ipynb`
