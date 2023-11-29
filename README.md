@@ -25,7 +25,7 @@ You can find the information about the airports in file `US_airport_id_info.csv`
 ## Use the current virtual env
 1. Activate the virtual env
 ```
-source complex-net/bon/activate
+source complex-net/bin/activate
 ```
 
 ## Use another virtual env
